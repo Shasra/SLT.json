@@ -1,10 +1,10 @@
 {
-    "posts": [
+    "cars": [
         {
             "id": 1,
             "titulo": "BMW 520iA",
             "marca": "BMW",
-            "Tipo": "520iA",
+            "tipo": "520iA",
             "modelo": 2019,
             "colorExterior": "black",
             "colorInterior": "black",
@@ -43,7 +43,7 @@
             "id": 2,
             "titulo": "BMW 220i",
             "marca": "BMW",
-            "Tipo": "220ia",
+            "tipo": "220ia",
             "modelo": 2019,
             "colorExterior": "blue",
             "colorInterior": "beige",
