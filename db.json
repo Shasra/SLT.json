@@ -1,88 +1,77 @@
 {
-    "cars": [
+    "cars":[
         {
-            "id": 1,
-            "titulo": "BMW 520iA",
-            "marca": "BMW",
-            "tipo": "520iA",
-            "modelo": 2019,
-            "colorExterior": "black",
-            "colorInterior": "black",
-            "motor": {
-                "transmision": "Automatica",
-                "drivetrain": "FWD",
-                "description": "2.0 TURBO DE 4 CILINDROS CON 184HP",
-                "hp": "184HP",
-                "cilindros": 4
+            "id":1,
+            "titulo":"BMW 520iA",
+            "marca":"BMW",
+            "tipo":"520iA",
+            "modelo":2019,
+            "colorExterior":"black",
+            "colorInterior":"black",
+            "motor":{
+                "transmision":"Automatica",
+                "drivetrain":"FWD",
+                "description":"2.0 TURBO DE 4 CILINDROS CON 184HP",
+                "hp":"184HP",
+                "cilindros":4
             },
-            "equipoInterior": {
-                "techoSolarRetractil": "TECHO SOLAR RETRACTIL",
-                "transmision": "DOBLE EMBRAGUE CON LAUNCH CONTROL",
-                "cambiosVolante" : "CAMBIOS DE VELOCIDAD EN EL VOLANTE",
-                "vestidurasDePiel": "DAKOTA BLACK, CON COSTURAS EN COLOR ROJO",
-                "modoDeManejo": "COMFORT, SPORT Y SPORT + ",
-                "pantallaCentral": "ANTALLA CENTRAL A COLOR MANIPULADA POR JOYSTICK"
+            "equipoInterior":{
+                "techoSolarRetractil":"TECHO SOLAR RETRACTIL",
+                "transmision":"DOBLE EMBRAGUE CON LAUNCH CONTROL",
+                "cambiosVolante":"CAMBIOS DE VELOCIDAD EN EL VOLANTE",
+                "vestidurasDePiel":"DAKOTA BLACK, CON COSTURAS EN COLOR ROJO",
+                "modoDeManejo":"COMFORT, SPORT Y SPORT + ",
+                "pantallaCentral":"ANTALLA CENTRAL A COLOR MANIPULADA POR JOYSTICK"
             },
-            "equipoExterior": {
-                "rines": "DEPORTIVOS DE 17 PULGADAS",
-                "rinesPulgadas": 17,
-                "faros": "FAROS DE GAS XENON PARA NIEBLA DELANTEROS Y TRASEROS, LUZ DIURNA TIPO LED",
-                "espejosRetrovisores": "LUCES DIRECCIONALES EN ESPEJOS RETROVISORES"
+            "equipoExterior":{
+                "rines":"DEPORTIVOS DE 17 PULGADAS",
+                "rinesPulgadas":17,
+                "faros":"FAROS DE GAS XENON PARA NIEBLA DELANTEROS Y TRASEROS, LUZ DIURNA TIPO LED",
+                "espejosRetrovisores":"LUCES DIRECCIONALES EN ESPEJOS RETROVISORES"
             },
-            "imagenes": {
-                "imagen": [
-                    {"link": "http://www.autostlalpan.com/wp-content/uploads/2019/05/01-6-1024x658.jpg"},
-                    {
-                        "link": "http://www.autostlalpan.com/wp-content/uploads/2019/05/02-7-1024x715.jpg" },
-                    {
-                        "link":"http://www.autostlalpan.com/wp-content/uploads/2019/05/03-8-1024x590.jpg"}
-                ]
-            }
+            "imagenes":[
+                "http://www.autostlalpan.com/wp-content/uploads/2019/05/01-6-1024x658.jpg",
+                "http://www.autostlalpan.com/wp-content/uploads/2019/05/02-7-1024x715.jpg",
+                "http://www.autostlalpan.com/wp-content/uploads/2019/05/03-8-1024x590.jpg"
+            ]
         },
         {
-            "id": 2,
-            "titulo": "BMW 220i",
-            "marca": "BMW",
-            "tipo": "220ia",
-            "modelo": 2019,
-            "colorExterior": "blue",
-            "colorInterior": "beige",
-            "motor": {
-                "transmision": "Automatica",
-                "drivetrain": "FWD",
-                "description": "2.0 TURBO DE 4 CILINDROS CON 184HP",
-                "hp": "184HP",
-                "cilindros": 4
+            "id":2,
+            "titulo":"BMW 220i",
+            "marca":"BMW",
+            "tipo":"220ia",
+            "modelo":2019,
+            "colorExterior":"blue",
+            "colorInterior":"beige",
+            "motor":{
+                "transmision":"Automatica",
+                "drivetrain":"FWD",
+                "description":"2.0 TURBO DE 4 CILINDROS CON 184HP",
+                "hp":"184HP",
+                "cilindros":4
             },
-            "equipoInterior": {
-                "techoSolarRetractil": "TECHO SOLAR RETRACTIL",
-                "transmision": "DOBLE EMBRAGUE CON LAUNCH CONTROL",
-                "cambiosVolante" : "CAMBIOS DE VELOCIDAD EN EL VOLANTE",
-                "vestidurasDePiel": "DAKOTA BLACK, CON COSTURAS EN COLOR ROJO",
-                "modoDeManejo": "COMFORT, SPORT Y SPORT + ",
-                "pantallaCentral": "PANTALLA CENTRAL A COLOR MANIPULADA POR JOYSTICK"
+            "equipoInterior":{
+                "techoSolarRetractil":"TECHO SOLAR RETRACTIL",
+                "transmision":"DOBLE EMBRAGUE CON LAUNCH CONTROL",
+                "cambiosVolante":"CAMBIOS DE VELOCIDAD EN EL VOLANTE",
+                "vestidurasDePiel":"DAKOTA BLACK, CON COSTURAS EN COLOR ROJO",
+                "modoDeManejo":"COMFORT, SPORT Y SPORT + ",
+                "pantallaCentral":"PANTALLA CENTRAL A COLOR MANIPULADA POR JOYSTICK"
             },
-            "equipoExterior": {
-                "rines": "DEPORTIVOS DE 17 PULGADAS",
-                "rinesPulgadas": 17,
-                "faros": "FAROS DE GAS XENON PARA NIEBLA DELANTEROS Y TRASEROS, LUZ DIURNA TIPO LED",
-                "espejosRetrovisores": "LUCES DIRECCIONALES EN ESPEJOS RETROVISORES"
+            "equipoExterior":{
+                "rines":"DEPORTIVOS DE 17 PULGADAS",
+                "rinesPulgadas":17,
+                "faros":"FAROS DE GAS XENON PARA NIEBLA DELANTEROS Y TRASEROS, LUZ DIURNA TIPO LED",
+                "espejosRetrovisores":"LUCES DIRECCIONALES EN ESPEJOS RETROVISORES"
             },
-            "imagenes": {
-                "imagen": [
-                    { "link": "http://www.autostlalpan.com/wp-content/uploads/2019/02/f4f82fca-0484-4781-8bc0-2a6e23be3e66-1024x664.jpg"
-                    },
-                    {
-                        "link": "http://www.autostlalpan.com/wp-content/uploads/2019/02/b0740428-fd08-4496-bff9-649f983afbf5-1024x610.jpg"
-                    },
-                    {
-                        "link": "http://www.autostlalpan.com/wp-content/uploads/2019/02/90f12c54-a26e-42eb-b936-dad58bd3f7b8-1024x606.jpg"
-                    }
-                ]
-            }
+            "imagenes":[
+                "http://www.autostlalpan.com/wp-content/uploads/2019/02/f4f82fca-0484-4781-8bc0-2a6e23be3e66-1024x664.jpg",
+                "http://www.autostlalpan.com/wp-content/uploads/2019/02/b0740428-fd08-4496-bff9-649f983afbf5-1024x610.jpg",
+                "http://www.autostlalpan.com/wp-content/uploads/2019/02/90f12c54-a26e-42eb-b936-dad58bd3f7b8-1024x606.jpg"
+            ]
         }
     ],
-    "profile": {
-        "name": "typicode"
+    "profile":{
+        "name":"typicode"
     }
 }
