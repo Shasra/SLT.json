@@ -222,7 +222,6 @@
             "https://www.autostlalpan.com/wp-content/uploads/2019/09/06-2-1024x587.jpg",
             "https://www.autostlalpan.com/wp-content/uploads/2019/09/07-2-1024x791.jpg",
             "https://www.autostlalpan.com/wp-content/uploads/2019/09/08-2-1024x657.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/09/08-2-1024x657.jpg",
             "https://www.autostlalpan.com/wp-content/uploads/2019/09/10-2-1024x770.jpg",
             "https://www.autostlalpan.com/wp-content/uploads/2019/09/14-1-1024x768.jpg"
         ]
@@ -342,7 +341,7 @@
         "motor":{
             "transmision":"Automatica",
             "drivetrain":"FWD",
-            "description":"1.4 TURBO DE 4 CILINDROS CON 150HP",
+            "description":"1.4 TURBO, 4 CILINDROS 150HP",
             "hp":"150HP",
             "cilindros":4,
             "inyeccion":"1.4L"
@@ -376,7 +375,7 @@
         "motor":{
             "transmision":"Automatica",
             "drivetrain":"FWD",
-            "description":"1.6 TURBO DE 4 CILINDROS CON 121HP",
+            "description":"1.6 TURBO, 4 CILINDROS 121HP",
             "hp":"121HP",
             "cilindros":4,
             "inyeccion":"1.6L"
@@ -384,25 +383,17 @@
         "equipoInterior":"TRANSMISION AUTOMATICA DE DOBLE EMBRAGUE\nINTERIORES EN COLOR NEGRO\nVESTIDURAS DE TELA Y PIEL EN COLOR ROJO Y NEGRO\nVOLANTE MULTIFUNCIONAL REVESTIDO EN PIEL\nPANTALLA CENTRAL A COLOR Y TOUCH\nCLIMATIZADOR DE AIRE ACONDICIONADO\nBOLSAS DE AIRE LATERALES Y FRONTALES, PARA CONDUCTOR Y ACOMPAÑANTE\nSISTEMA DE SONIDO CON RADIO AM/FM, AUX, USB Y BLUETOOTH\nAPLICACION PARA “APPLE CARPLAY” Y “ANDROID AUTO”\nLLAVE DE SENSOR, QUE PERMITE ABRIR EL AUTO CON UN SOLO TOQUE\nSENSOR DE LUZ, “AUTOLAMP”\nCAMARA DE REVERSA",
         "equipoExterior":"LUZ DIURNA DE LED\nESPEJOS LATERALES RETRACTILES ELECTRICAMENTE\nRINES DE ALUMINIO\nSPOILER TRASERO\nLIMPIAPARABRISAS TRASERO",
         "imagenes":[
-                "https://www.autostlalpan.com/wp-content/uploads/2019/08/01-4.jpg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/08/02.1.jpg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/08/02-4.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/03-4.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/04.1.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/04-4.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/05-4.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/06-4.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/07-4.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/10-3.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/11-3.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/12-4.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/13-4.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/14-3.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/15-3.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/16-1.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/16-1.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/18-2.jpg"
-           
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/01-4-1024x727.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/02.1-1024x744.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/04.1-1024x657.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/04-4-1024x440.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/05-4-1024x660.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/06-4-1024x747.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/07-4-1024x634.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/10-3-1024x525.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/12-4-1024x786.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/15-3-1024x768.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/16-1-1024x768.jpg"
         ]
     },
     {
@@ -418,7 +409,7 @@
         "motor":{
             "transmision":"Automatica",
             "drivetrain":"RWD",
-            "description":"4.3L DE 8 CILINDROS CON 460HP",
+            "description":"4.3L, 8 CILINDROS 460HP",
             "hp":"460HP",
             "cilindros":8,
             "inyeccion":"4.3L"
@@ -427,19 +418,18 @@
         "equipoExterior":"FAROS DE GAS XENON\nFAROS DE NIEBLO\nSISTEMA DE 4 ESCAPES DEPORTIVOS EN COLOR NEGRO\nRINES DE ALUMINIO DE 21 PULGADAS\nCOFRE Y PARACHOQUES DELANTERO Y TRASERO CON DISEÑO AERODINAMICO Y TOMAS DE AIRE\nFRENOS DE DISCO VENTILADO EN LAS 4 RUEDAS\nCALIPERS EN COLOR AMARILLO\nDISEÑADO POR “PINIFARINA”",
         "imagenes":[
                 
-                "https://www.autostlalpan.com/wp-content/uploads/2019/08/01-2.jpg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/08/02-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/03-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/04-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/05-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/06-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/07-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/09-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/12-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/13-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/14-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/08/15-2.jpg"
-       
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/01-2-1024x650.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/02-2-1024x719.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/03-2-1024x625.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/04-2-1024x830.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/05-2-1024x623.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/06-2-1024x563.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/07-2-1024x777.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/09-2-1024x578.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/12-2-1024x562.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/13-2-1024x988.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/14-2-1024x768.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/08/15-2-1024x768.jpg"
         ]
     },
     {
@@ -463,22 +453,16 @@
         "equipoInterior":"",
         "equipoExterior":"",
         "imagenes":[
-                "https://www.autostlalpan.com/wp-content/uploads/2019/07/01-11.jpg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/07/02-11.jpg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/07/03-11.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/04-11.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/05-11.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/06-11.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/07-11.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/08-11.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/20-5.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/21-3.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/22-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/23-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/24-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/25-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/26-1.jpg"
-       
+                "https://www.autostlalpan.com/wp-content/uploads/2019/07/01-11-1024x728.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/07/04-11-1024x791.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/07/05-11-1024x696.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/07/06-11-1024x702.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/07/07-11-1024x878.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/07/08-11-1024x744.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/07/21-3-1024x507.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/07/22-2-1024x822.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/07/23-2-1024x768.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/07/24-2-1024x768.jpg"
         ]
     },
     {
@@ -494,7 +478,7 @@
         "motor":{
             "transmision":"Automatica",
             "drivetrain":"RWD",
-            "description":"2.5 TURBO DE 4 CILINDROS CON 365HP",
+            "description":"2.5 TURBO, 4 CILINDROS 365HP",
             "hp":"365HP",
             "cilindros":4,
             "inyeccion":"2.5L"
@@ -502,25 +486,17 @@
         "equipoInterior":"TRANSMISIÓN AUTOMÁTICA PDK DE DOBLE EMBRAGUE CON LAUNCH CONTROL\n4 MODOS DE MANEJO: NORMAL, INDIVIDUAL, SPORT Y SPORT +\n20 SEGUNDOS MAS DE TORQUE, “SPORT RESPONSE” EN EL VOLANTE\nVOLANTE MULTIFUNCIONAL REVESTIDO EN PIEL\nVESTIDURAS DE PIEL EN COLOR NEGRO\nINTERIORES EN ALCANTA Y FIBRA DE CARBONO\nASIENTOS DEPORTIVOS GRABADOS CON “GTS”\nSISTEMA DE NAVEGACIÓN, “GPS”\nSUSPENSION AJUSTABLE. “PASM”\nSISTEMA DE AHORRO DE COMBUSTIBLE,”STRAT / STOP”\nSENSOR DE LUZ, “AUTOLAMP”\nSENSOR DE LLUVIA\nAPERTURA DE ESCAPES DESDE EL INTERIOR",
         "equipoExterior":"FAROS DE GAS XENÓN\nFAROS CON AROS DE 4 LEDS\nFAROS DE NIEBLA\nRINES DE ALUMINIO DE 20 PULGADAS\nFRENOS DE DISCO VENTILADO EN LAS CUATRO RUEDAS\nCALIPERS EN COLOR AMARILLO\nTOMAS DE AIRE EN COLOR NEGRO BRILLANTE\nTECHO DESCAPOTABLE ELÉCTRICO",
         "imagenes":[
-                "https://www.autostlalpan.com/wp-content/uploads/2019/07/01-10.jpg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/07/02-10.jpg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/07/02-10.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/06-10.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/07-10.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/08-10.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/09-8.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/10-9.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/13-10.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/14-9.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/15-9.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/17-6.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/20-4.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/21-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/22-1.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/23-1.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/24-1.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/25-1.jpg"
-       
+                "https://www.autostlalpan.com/wp-content/uploads/2019/07/10-9-1024x623.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/07/13-10-1024x878.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/07/14-9-1024x559.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/07/15-9-1024x602.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/07/16-9-1024x619.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/07/17-6-1024x585.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/07/01-10-1024x677.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/07/06-10-1024x365.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/07/20-4-1024x768.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/07/21-2-1024x768.jpg",
+                "https://www.autostlalpan.com/wp-content/uploads/2019/07/23-1-1024x768.jpg"
         ]
     },
     {
@@ -536,7 +512,7 @@
         "motor":{
             "transmision":"Automatica",
             "drivetrain":"4WD",
-            "description":"3.0LTS SUPERCARGADO DE 6 CILINDROS CON 340HP",
+            "description":"3.0LTS SUPERCARGADO, 6 CILINDROS 340HP",
             "hp":"340HP",
             "cilindros":6,
             "inyeccion":"3.0L"
@@ -544,22 +520,16 @@
         "equipoInterior":"TRANSMISION AUTOMATICA DE DOBLE EMBRAGUE CON LAUNCH CONTROL\nADAPTIVE DYNAMICS DIFERENTES MODOS DE MANEO: ECO, COMFORT, LLUVIA / HIELO Y DINAMICO\nINTERIORES EN PIEL Y ALUMINIO\nVESTIDURAS DE PIEL COLOR CREMA\nASIENTOS ELECTRICOS REGULABLES DE ALTURA Y PROFUNDIDAD\nVOLANTE MULTIFUNCIONAL REVESTIDO EN PIEL\nCLIMATIZADOR BI-ZONA\nSISTEMA DE NAVEHACION, “GPS”\nBOLSAS DE AIRE LATERALES Y FRONTALES PARA CONDUCTOR Y ACOMPAÑANTE\nPANTALLA CENTRAL TACTIL DE 8 PULGADAS\nSISTEMA DE SONIDO AGUAR CON RADIO AM/FM Y CONEXIONES PARA USB, BLUETOOTH Y USB\nSENSOR DE LUZ, “AUTOLAMP”\nAPERTURA DE CAUELA ELECTRICA\nFRENO DE EMERGENCIA AUTONOMO\nSENSOR DE ADVERTENCIA DE CAMBIO DE CARRIL, “LDW”\nCONTROL DE VELOCIDAD ADAPTABLE CON AYUDA",
         "equipoExterior":"FAROS DE GAS XENON BIFUNCIONALES CON LUCES DE CONDUCCION DIURNA LED ” BLADE”\nHIDROLAVADO DE FAROS\nFAROS DE NIEBLA\nPARRILLA Y TOMA DE AIRE EN COLOR CROMO\nESPEOS LATERALES RETRACTILES ELECTRICAMENTE\nLUCES DIRECCIONALES EN ESPEOS RETROVISORES\nRINES DE ALUMINIO\nANTENA DE TIPO TIBURON\nTECHO DE CRISTAL\nLIMPIAPARABRISAS TRASERO\nSISTEMA DE DOBLE ESCAPE EN COLOR CROMO",
         "imagenes":[
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/01-8.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/02-8.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/05-8.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/06-8.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/07-8.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/08-8.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/09-6.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/10-7.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/11.1.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/11.2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/12-8.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/13-8.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/14-7.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/15-7.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/16-7.jpg"
-       
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/01-8-1024x709.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/02-8-1024x849.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/05-8-1024x694.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/06-8-1024x674.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/07-8-1024x870.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/08-8-1024x650.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/09-6-1024x427.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/11.1-1024x644.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/11-7-1024x975.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/15-7-1024x768.jpg"
         ]
     },
         {
@@ -583,25 +553,18 @@
         "equipoInterior":"TRANSMISION AUTOMATICA DE DOBLE EMBRAGUE CON LAUNCH CONTROL\nDIFERENTES MODOS DE MANEJO, DYNAMIC SELECT\nVESTIDURAS DE PIEL EN COLOR NEGRO\nASIENTOS ELÉCTRICOS REGULABLES DE ALTURA Y PROFUNDIDAD\nACABADOS EN ALUMINIO Y PIEL\nVOLANTE MULTIFUNCIONAL CON LEVAS DE CAMBIO, REVESTIDO EN PIEL\nCLIMATIZADOR BI-ZONA “THERMATIC”\nSISTEMA DE FRENADO DE EMERGENCIA\nATTENTIOS ASSIST\nPREVENTION ASSIST PLUS\nSENSOR DE LLUVIA\nSENSOR DE LUZ, “AUTOLAMP”\nSISTEMA DE NAVEGADOR, “GPS”\nPANTALLA CENTRAL A COLOR CON TOUCHPAD\nENVIO AUTOMÁTICO DE LAS NECESIDADES DE SERVICIOS\nPAQUETE DE ILUMINACIÓN INTERIOR\nPAQUETE ESTETICO AMG",
         "equipoExterior":"FAROS DE GAS BI-XENON\nSENSORES DE PROXIMIDAD DELANTEROS Y TRASEROS\nTOLDO RIGIDO ELECTRICO\nRINES DE ALUMINIO DE AMG 18 PULGADAS\nANTENA DE TIPO TIBURON",
         "imagenes":[
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/17-5.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/07-7.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/02-7.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/01-7.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/04-7.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/05-7.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/06-7.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/08-7.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/09-5.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/13-7.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/12-7.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/14-6.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/15-6.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/20-3.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/21-1.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/18-3.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/22.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/19-3.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/26.jpg"
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/13-7-1024x506.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/02-7-1024x768.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/11-6-1024x497.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/10-6-1024x843.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/04-7-1024x768.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/05-7-1024x572.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/14-6-1024x554.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/15-6-1024x410.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/16-6-1024x555.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/18-3-1024x768.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/19-3-1024x954.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/23-1024x768.jpg"
         ]
     },
      {
@@ -665,7 +628,7 @@
             "https://www.autostlalpan.com/wp-content/uploads/2019/04/47423A90-5DDC-4487-8BDD-32467E741844-1024x696.jpeg",
             "https://www.autostlalpan.com/wp-content/uploads/2019/04/32EDE78A-7F71-44E1-9854-585F0B7B7D7F-1024x361.jpeg",
             "https://www.autostlalpan.com/wp-content/uploads/2019/04/28EE2C23-F409-40AE-9428-034B8F1D027B-1024x633.jpeg",
-            "http://www.autostlalpan.com/wp-content/uploads/2019/04/D787B4E6-F673-4B47-9930-96A5AE8C5790-1024x786.jpeg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/04/D787B4E6-F673-4B47-9930-96A5AE8C5790-1024x786.jpeg",
             "https://www.autostlalpan.com/wp-content/uploads/2019/04/D6FB61D1-4A17-4570-88F5-B9EEAD32DA99-1024x591.jpeg",
             "https://www.autostlalpan.com/wp-content/uploads/2019/04/7B927328-BB59-4AF1-B941-B124F495E06B-1024x431.jpeg",
             "https://www.autostlalpan.com/wp-content/uploads/2019/04/AA9007B1-D99A-4454-ADE8-9A0A0393E8A7-953x1024.jpeg"
@@ -673,38 +636,171 @@
     },
     {
         "id":20,
-        "titulo":"MERCEDES BENZ CLASE A200 URBAN",
-        "marca":"MERCEDES BENZ",
-        "tipo":"CLASE A200 URBAN",
-        "modelo":2017,
-        "precio":"328,000",
+        "titulo":"PORSCHE BOXSTER 2.7L 265HP",
+        "marca":"PORSCHE",
+        "tipo":"BOXTER",
+        "modelo":2014,
+        "precio":"848,000",
         "colorExterior":"Blanco",
-        "colorInterior":"Negro",
-        "kilomeraje":29000,
+        "colorInterior":"Azul Piel",
+        "kilomeraje":7100,
+        "motor":{
+            "transmision":"Automatica PDK",
+            "drivetrain":"RWD",
+            "description":"2.7 TURBO, 6 CILINDROS 265HP",
+            "hp":"265HP",
+            "cilindros":6,
+            "inyeccion":"2.7L"
+        },
+        "equipoInterior":"",
+        "equipoExterior":"",
+        "imagenes":[
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/01-4-1024x657.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/02-4-1024x715.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/05-4-1024x645.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/06-4-1024x585.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/07-4-1024x843.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/08-4-1024x658.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/12-4-1024x581.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/14.1-1024x619.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/15-4-1024x576.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/16-4-1024x768.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/17-2-1024x768.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/07/20-2-1024x768.jpg"
+        ]
+    },
+    {
+        "id":21,
+        "titulo":"FORD ESCAPE TITANIUM 2015",
+        "marca":"FORD",
+        "tipo":"ESCAPE",
+        "modelo":2015,
+        "precio":"278,000",
+        "colorExterior":"Plata",
+        "colorInterior":"Negro Piel",
+        "kilomeraje":42000,
         "motor":{
             "transmision":"Automatica",
             "drivetrain":"FWD",
-            "description":"1.6 TURBO DE 4 CILINDROS CON 156HP",
-            "hp":"156",
+            "description":"2.5L, 4 CILINDROS 168HP",
+            "hp":"168HP",
             "cilindros":4,
-            "inyeccion":"1.6L"
+            "inyeccion":"2.5L"
         },
-        "equipoInterior":"TRANSMISION AUTOMATICO DE DOBLE EMBRAGUE CON LAUNCH CONTROL\nINTERIORES EN PIEL\nVOLANTE MULTIFUNCIONAL, REVESTIDO EN PIEL\nASIENTOS DE PIEL Y TELA EN COLOR NEGRO AUSTABLES DE ALTURA Y PROFUNDIDAD\nASIENTO DEL CONDUCTOR ELECTRICO\nPANTALLA CENTRAL CON TOUCHPAD\nSISTEMAS DE SONIDO CON APPLE CARPLAY Y ANDROID AUTO\nSENSOR DE LUZ, “AUTOLAMP”\nCOMPUTADORA DE ABORDO",
-        "equipoExterior":"FAROS DE LED HIGH PERFORMANCE\nLUZ DIRNA DE LED\nFAROS DE NIEBLA\nTOLDO PANORAMICO ELECTRICO\nLUCES DIRECCIONALES EN LOS RETROVISORES\nRINES DE ALUMINIO DE 19 PULGADAS",
+        "equipoInterior":"Climatizador bi-zona\nTransmisión Automática\nReproductor CD/MP3,\nEntrada auxiliar,\nPuerto USB,\nSistema de control por voz para funciones,\nAsientos traseros abatibles,\nCalefacción en asientos,\nVolante de posiciones\nControl automático de velocidad\nQuemacocos",
+        "equipoExterior":"Rines de aluminio\nFrenos de disco traseros\nControl de tracción\nCámara de estacionamiento\nEncendido diurno automático\nRines de aluminio",
         "imagenes":[
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/01-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/04-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/05-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/06-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/07-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/08-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/09.1.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/09-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/10-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/11-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/13.1.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/13-2.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/16-2.jpg"
+            "https://www.autostlalpan.com/wp-content/uploads/2018/10/5706FCA4-0687-4661-96B9-A575E1A9AFDE-1024x768.jpeg",
+            "https://www.autostlalpan.com/wp-content/uploads/2018/10/E0F9C6EF-83EA-48C8-BB84-675F6AB84B18-1024x768.jpeg",
+            "https://www.autostlalpan.com/wp-content/uploads/2018/10/B19065C1-11CB-4BC6-BC77-34D553DDBB41-1024x768.jpeg",
+            "https://www.autostlalpan.com/wp-content/uploads/2018/10/B72ED846-3BD1-436E-9E0F-8E93A7425FC3-1024x768.jpeg",
+            "https://www.autostlalpan.com/wp-content/uploads/2018/10/9273BB92-9DF2-4C0F-A6CF-D4A7DD227205-1024x768.jpeg",
+            "https://www.autostlalpan.com/wp-content/uploads/2018/10/4066C26A-1CF4-48B9-A5F4-50860B4550B1-1024x768.jpeg",
+            "https://www.autostlalpan.com/wp-content/uploads/2018/10/73FE8BD2-465F-4654-8CC4-8C21CC155C1E-1024x768.jpeg",
+            "https://www.autostlalpan.com/wp-content/uploads/2018/10/5012C041-7B8F-4BE4-AC03-86159D176105-1024x768.jpeg",
+            "https://www.autostlalpan.com/wp-content/uploads/2018/10/72ED1856-2953-4D1D-B4A4-CB6C8C6F3643-1024x768.jpeg",
+            "https://www.autostlalpan.com/wp-content/uploads/2018/10/72ED1856-2953-4D1D-B4A4-CB6C8C6F3643-1024x768.jpeg"
+        ]
+    },
+    {
+        "id":22,
+        "titulo":"CHEVROLET TRAVERSE LT 2016",
+        "marca":"CHEVROLET",
+        "tipo":"TRAVERSE",
+        "modelo":2016,
+        "precio":"448,000",
+        "colorExterior":"Plata",
+        "colorInterior":"Negro Piel",
+        "kilomeraje":20000,
+        "motor":{
+            "transmision":"Automatica",
+            "drivetrain":"FWD",
+            "description":"3.6L, 6 CILINDROS 305HP",
+            "hp":"168HP",
+            "cilindros":6,
+            "inyeccion":"3.6L"
+        },
+        "equipoInterior":"AUTOMÁTICO DE 6 VELOCIDADES\n8 BOLSAS DE AIRE,\nVESTIDURAS EN PIEL,\nPANTALLA TÁCTIL,\nVOLANTE MULTIFUNCIONAL CON AJUSTE DE ALTURA Y PROFUNDIDAD,\nSISTEMA DE NAVEGACIÓN,\nADVD",
+        "equipoExterior":"RINES DE ALUMINIO,\nFAROS ANTI NIEBLA,\nESPEJOS LATERALES TÉRMICOS CON DIRECCIONAL LED,\nQUEMACOCOS PANORÁMICO",
+        "imagenes":[
+            "https://www.autostlalpan.com/wp-content/uploads/2018/05/DSC00658-1024x576.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2018/05/DSC00656-1024x576.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2018/05/DSC00655-1024x576.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2018/05/DSC00660-1024x576.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2018/05/DSC00661-1024x576.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2018/05/DSC00663-1024x576.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2018/05/DSC00669-1024x576.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2018/05/DSC00665-1024x576.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2018/05/DSC00672-1024x576.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2018/05/DSC00677-1024x576.jpg"
+        ]
+    },
+    {
+           "id":23,
+           "titulo":"CHEVROLET CAPTIVA SPORT LT",
+           "marca":"CHEVROLET",
+           "tipo":"CAPTIVA",
+           "modelo":2012,
+           "precio":"198,000",
+           "colorExterior":"Beige",
+           "colorInterior":"Negro Piel",
+           "kilomeraje":48584,
+           "motor":{
+               "transmision":"Automatica",
+               "drivetrain":"FWD",
+               "description":"3L, 6 CILINDROS 264HP",
+               "hp":"264HP",
+               "cilindros":6,
+               "inyeccion":"3L"
+           },
+           "equipoInterior":"A/C,\n ASIENTOS ELECTRICOS,\n ASIENTOS TRASEROS ABATIBLES,\nVESTIDURAS DE PIEL,\nCONTROL E VELOCIDAD,\nVOLANTE AJUSTABLE,",
+           "equipoExterior":"RINES DE ALUMINIO 17',\nFRENOS ABS,\nALARMA,\nQUEMACOCOS",
+           "imagenes":[
+               "https://www.autostlalpan.com/wp-content/uploads/2017/02/CAP-1-1024x768.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2017/02/CAP-2-1024x768.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2017/02/CAP-3-1024x768.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2017/02/CAP-8-1024x768.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2017/02/CAP-4-1024x768.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2017/02/CAP-5-1024x768.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2017/02/CAP-6-1024x768.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2017/02/CAP-7-1024x768.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2017/02/CAP-14-1024x768.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2017/02/CAP-13-1024x768.jpg"
+           ]
+       },
+    {
+        "id":24,
+        "titulo":"BMW 430iA 2.0T COUPE SPORT",
+        "marca":"BMW",
+        "tipo":"430iA",
+        "modelo":2017,
+        "precio":"468,000",
+        "colorExterior":"Gris",
+        "colorInterior":"Rojo Piel",
+        "kilomeraje":40000,
+        "motor":{
+            "transmision":"Automatica",
+            "drivetrain":"FWD",
+            "description":"2.0 TURBO, 4 CILINDROS 252HP",
+            "hp":"252HP",
+            "cilindros":4,
+            "inyeccion":"2L"
+        },
+        "equipoInterior":"A/C,\n ASIENTOS ELECTRICOS,\nVESTIDURAS DE ROJO PIEL,\nCONTROL DE VELOCIDAD,\nVOLANTE AJUSTABLE,",
+        "equipoExterior":"FRENOS ABS,\nALARMA,\nQUEMACOCOS",
+        "imagenes":[
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/01-1024x696.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/02-1024x700.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/05-1024x638.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/08-1024x578.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/07-1024x795.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/06-1024x595.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/10-1024x768.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/16-1024x768.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/11-1024x738.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/13-1003x1024.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/17-1024x768.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/14-1024x768.jpg"
         ]
     }
 ]
