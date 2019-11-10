@@ -1,5 +1,141 @@
 [
     {
+        "id":34,
+        "titulo":"BMW M4 CONVERTIBLE TWINPOWER",
+        "marca":"BMW",
+        "tipo":"M4",
+        "modelo":2018,
+        "precio":"998,000",
+        "colorExterior":"Black",
+        "colorInterior":"Red",
+        "kilomeraje":8600,
+        "motor":{
+            "transmision":"Automatico",
+            "drivetrain":"FWD",
+            "description":"3.0L 6 Cil 431HP",
+            "hp":"431",
+            "cilindros":8,
+            "inyeccion":"3.0L"
+        },
+        "equipoInterior":"TRANSMISIÓN AUTOMÁTICA DE 7 VELOCIDADES  CON DOBLE EMBRAGUE M DKG DRIVELOGIC CON FUNCION LAUNCH CONTROL,\nINTERIORES EN PIEL Y FIBRA DE CARBONO,\n (PAQUETE COMPETITION),\nVESTIDURAS DE PIEL EN COLOR ROJO,\nASIENTOS ELECTRICOS Y CON EMBLEMA “M” GRABADO",
+        "equipoExterior":"",
+        "imagenes":[
+            "https://www.autostlalpan.com/wp-content/uploads/2019/11/01-2-1024x667.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/11/02-1-1024x773.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/11/03-1-1024x570.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/11/05-1-1024x672.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/11/06-1-1024x386.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/11/07-1-1024x578.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/11/10-1-1024x674.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/11/11-1-1024x559.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/11/12.1-1024x768.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/11/14.1-1024x768.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/11/14-1-1024x768.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/11/15-1-1024x768.jpg"
+        ]
+    },
+    {
+           "id":33,
+           "titulo":"GMC YUKON DENALI 6.2L",
+           "marca":"GMC",
+           "tipo":"YUKON",
+           "modelo":2019,
+           "precio":"988,000",
+           "colorExterior":"Azul",
+           "colorInterior":"Leather Beige",
+           "kilomeraje":13000,
+           "motor":{
+               "transmision":"Automatico",
+               "drivetrain":"AWD",
+               "description":"6.2L 8 Cil 420HP",
+               "hp":"420",
+               "cilindros":8,
+               "inyeccion":"6.2L"
+           },
+           "equipoInterior":"",
+           "equipoExterior":"",
+           "imagenes":[
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/01-3-1024x804.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/02-2-1024x774.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/04.2-1024x670.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/04-2-1024x685.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/05-2-1024x918.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/06-2-1024x695.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/10-2-1024x606.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/11-2-1024x886.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/14.1-1-1024x768.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/14.2-1024x768.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/14-2-1024x768.jpg"
+           ]
+       },
+    {
+           "id":32,
+           "titulo": "MAZDA 6 GT PLUS 2019",
+           "marca":"MAZDA",
+           "tipo":"6",
+           "modelo":2019,
+           "precio":"408,000",
+           "colorExterior":"Grey",
+           "colorInterior":"Grey",
+           "kilomeraje":15700,
+           "motor":{
+               "transmision":"Automatico",
+               "drivetrain":"FWD",
+               "description":"2.5 L 4 CL 188 HP",
+               "hp":"188",
+               "cilindros":4,
+               "inyeccion":"2.5L"
+           },
+           "equipoInterior":"",
+           "equipoExterior":"",
+           "imagenes":[
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/01-1024x657.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/02-1024x768.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/03-1024x648.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/05-1024x672.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/06-1024x621.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/07-1024x802.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/08-1024x642.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/13-1024x768.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/14-1024x768.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/12-1024x768.jpg",
+               "https://www.autostlalpan.com/wp-content/uploads/2019/11/10-1024x768.jpg"
+           ]
+       },
+    {
+        "id":31,
+        "titulo": "VOLKSWAGEN JETTA COMFORTLINE",
+        "marca":"VOLKSWAGEN",
+        "tipo":"JETTA",
+        "modelo":2019,
+        "precio":"278,000",
+        "colorExterior":"Black",
+        "colorInterior":"Grey",
+        "kilomeraje":14600,
+        "motor":{
+            "transmision":"Automatico",
+            "drivetrain":"FWD",
+            "description":"1.4 LTS TURBO 4CL 150 HP",
+            "hp":"156",
+            "cilindros":4,
+            "inyeccion":"1.4L"
+        },
+        "equipoInterior":"TRANSMISIÓN AUTOMÁTICA “DSG,\n INTERIORES EN ALUMINIO Y TELA,\nVOLANTE MULTIFUNCIONAL,\nVOLKSWAGEN APP-CONNECT (CONTROL DE APLICACIONES DESDE EL RADIO PARA SMARTPHONE),\nASIENTOS TIPO COMFORT,\nSISTEMA DE AHORRO DE COMBUSTIBLE, START/STOP,\nAIRE ACONDICIONADO,\nSENSOR DE LUZ, “AUTOLAMP”,\nCOMPUTADORA DE VIAJE,\nVIDRIOS SEGURO Y ESPEJOS, ELECTRICOS,\nCAJUELA ILUMINADA",
+        "equipoExterior":"LUCES DE DIA EN LED,\nFAROS CON LUCES ALTAS Y BAJAS EN FULL LED,\nCALAVERAS CON ILUMINACIÓN EN TECNOLOGÍA LED,\nESPEJOS LATERALES EN EL COLOR DE LA CARROCERÍA,\nRINES DE ALUMINIO DE 16 PULGADAS,\nANTENA TIPO TIBURON",
+        "imagenes":[
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/03-11-1024x619.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/02-11-1024x694.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/05-11-1024x535.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/06.1-1024x533.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/06-11-1024x790.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/07-11-1024x536.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/10-11-1024x499.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/13-9-1024x768.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/14-9-1024x768.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2019/10/15-7-1024x768.jpg"
+        ]
+    },
+    {
         "id":25,
         "titulo":"NISSAN PATHFINDER ADVANCE CVT 2015",
         "marca":"NISSAN",
@@ -274,7 +410,7 @@
     },
     {
         "id":24,
-        "titulo":"BMW 430iA 2.0T COUPE SPORT 2017",
+        "titulo":"BMW 430iA 2.0T COUPE SPORT",
         "marca":"BMW",
         "tipo":"430iA",
         "modelo":2017,
@@ -403,71 +539,6 @@
             "https://www.autostlalpan.com/wp-content/uploads/2019/09/11-4-1024x1003.jpg",
             "https://www.autostlalpan.com/wp-content/uploads/2019/09/13-4-1024x768.jpg",
             "https://www.autostlalpan.com/wp-content/uploads/2019/09/14-3-1024x768.jpg"
-        ]
-    },
-    {
-        "id":5,
-        "titulo":"SEAT ATECA XCELLENCE 2017",
-        "marca":"SEAT",
-        "tipo":"ATECA",
-        "modelo":2017,
-        "precio":"348,000",
-        "colorExterior":"Blanco",
-        "colorInterior":"Negro",
-        "kilomeraje":17000,
-        "motor":{
-            "transmision":"Automatica",
-            "drivetrain":"FWD",
-            "description":"1.4 TURBO 4 CILINDROS 150HP",
-            "hp":"150HP",
-            "cilindros":4,
-            "inyeccion":"1.4L"
-        },
-        "equipoInterior":"TRANSMISION AUTOMATICA DE DOBLE EMBRAGUE\nINTERIORES EN ALUMINIO Y COLOR CAFE BRILLANTE\n”SEAT DRIVE PROFILE”, DIFERENTES MODOS DE MANEJO\nVESTIDURAS DE TELA Y ALCANTARA EN NEGRO Y CAFE\nASIENTOS DEPORTIVOS EN ALCATARA  COLOR MARRON\nLUCES INTERIORES DELANTERAS Y TRASERAS EN LED\nESPEJO RETROVISOR INTERIOR ELECTRONOMICO AUTOMATICO\nVOLANTE MULTIFUNCIONAL REVESTIDO EN PIEL\nSISTEMA KESSY (ENTRY & GO) -LLAVE DE SENSOR-\nSENSOR DE LUZ, “AUTOLAMP”\nSENSOR DE LLUVIA\nCAMARA DE ESTACIONAMIENTO CON FUNCION DE 360 GRADOS\nSISTEMA DE INFOTENIMIENTO CON PANTALLA TOUCH DE 8 PULGADAS\nAPLICACION PARA “APPLE CARPLAY”, “ANDROID AUTO” Y “MIRROR LINK”",
-        "equipoExterior":"FAROS FULL LED CON LUZ DIURNA DE LED\nFAROS DE NIEBLA\nRINES DE ALUMINIO\nTOLDO PANORAMICO DE CRISTAL\nESPEJOS EXTERIORES CON LUZ DE BIENVENIDA\nDOBLE TUBO DE ESCAPE VISIBLE\nMARCOS CROMADOS DE LAS PUERTAS\nBARRA PORTAEQUIPAJE CROMADA",
-        "imagenes":[
-            "https://www.autostlalpan.com/wp-content/uploads/2019/09/856C5DF2-1FDD-4AB5-8A6C-D7B06D96827F-1024x753.jpeg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/09/EC645B81-305B-419C-8794-11C7758728D6-1024x792.jpeg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/09/D9A2A15E-8618-46DC-8697-9781F71E017C-1024x708.jpeg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/09/85DC2AC0-816A-4FDF-B252-D51452BC2AD2-1024x690.jpeg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/09/63B5EFA8-42E4-46BE-BB83-5469905F0230-1024x707.jpeg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/09/D60FD192-6E0A-468A-AA69-57B7AAC9CE8B-1024x625.jpeg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/09/CB157B22-2E7E-41FA-A406-19DEA038FEFB-1024x768.jpeg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/09/04F5BBAD-108C-4566-BAD0-6A5B24DD3159-1024x768.jpeg"
-        ]
-    },
-    {
-        "id":6,
-        "titulo":"FORD RANGER XLT CREW CAB 2017",
-        "marca":"FORD",
-        "tipo":"RANGER XLT CREW CAB 3.2TD",
-        "modelo":2017,
-        "precio":"408,000",
-        "colorExterior":"Plata",
-        "colorInterior":"Negro",
-        "kilomeraje":33000,
-        "motor":{
-            "transmision":"Automatica",
-            "drivetrain":"4WD",
-            "description":"3.2 TURBO DIESEL DE 5 CILINDROS CON 197HP",
-            "hp":"197HP",
-            "cilindros":5,
-            "inyeccion":"3.2L"
-        },
-        "equipoInterior":"TRANSMISION AUTOMATICA DE DOBLE EMBRAGUE\nTRACCION 4X4\nINTERIORES EN COLOR PLATA ESMALTADO\nVOLANTE MULTIFUNCIONAL REVESTIDO EN PIEL\nVESTIDURAS DE TELA COLOR NEGRO\nSENSORES DE PROXIMIDAD\nSENSOR DE LUZ\nAIRE ACONDICIONADO\nSISTEMA DE NAVEGACION, “GPS”\nVIDRIOS, SEGUROS Y ESPEJOS ELECTRICOS",
-        "equipoExterior":"FAROS DE GAS XENON\nFAROS DE NIEBLA EN XENON\nPARRILLA Y ESPEOS CROMADOS\nRINES DE ALUMINIO\nTUMBA-BURROS EN COLOR CROMO\nRIELES EN EL TOLDO EN COLOR CROMO\nESTRIBOS LATERALES EN COLOR CROMO\nFAROS DE NIEBLA EN EL TOLDO\nBATEA FORRADA EN PLASTICO DE USO RUDO",
-        "imagenes":[
-            "https://www.autostlalpan.com/wp-content/uploads/2019/09/01-3-1024x760.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/09/03-3-1024x580.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/09/02-3-1024x782.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/09/05-3-1024x750.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/09/06-3-1024x378.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/09/07-3-1024x686.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/09/08-3-1024x853.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/09/09-3-1024x768.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/09/10-3-1024x544.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/09/15-2-1024x768.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/09/14-2-1024x768.jpg"
         ]
     },
     {
@@ -674,73 +745,6 @@
         ]
     },
     {
-        "id":15,
-        "titulo":"PORSCHE BOXSTER GTS 2018",
-        "marca":"PORSCHE",
-        "tipo":"BOXSTER GTS",
-        "modelo":2018,
-        "precio":"1,428,000",
-        "colorExterior":"Plata",
-        "colorInterior":"Negro",
-        "kilomeraje":5000,
-        "motor":{
-            "transmision":"Automatica",
-            "drivetrain":"RWD",
-            "description":"2.5 TURBO, 4 CILINDROS 365HP",
-            "hp":"365HP",
-            "cilindros":4,
-            "inyeccion":"2.5L"
-        },
-        "equipoInterior":"TRANSMISIÓN AUTOMÁTICA PDK DE DOBLE EMBRAGUE CON LAUNCH CONTROL\n4 MODOS DE MANEJO: NORMAL, INDIVIDUAL, SPORT Y SPORT +\n20 SEGUNDOS MAS DE TORQUE, “SPORT RESPONSE” EN EL VOLANTE\nVOLANTE MULTIFUNCIONAL REVESTIDO EN PIEL\nVESTIDURAS DE PIEL EN COLOR NEGRO\nINTERIORES EN ALCANTA Y FIBRA DE CARBONO\nASIENTOS DEPORTIVOS GRABADOS CON “GTS”\nSISTEMA DE NAVEGACIÓN, “GPS”\nSUSPENSION AJUSTABLE. “PASM”\nSISTEMA DE AHORRO DE COMBUSTIBLE,”STRAT / STOP”\nSENSOR DE LUZ, “AUTOLAMP”\nSENSOR DE LLUVIA\nAPERTURA DE ESCAPES DESDE EL INTERIOR",
-        "equipoExterior":"FAROS DE GAS XENÓN\nFAROS CON AROS DE 4 LEDS\nFAROS DE NIEBLA\nRINES DE ALUMINIO DE 20 PULGADAS\nFRENOS DE DISCO VENTILADO EN LAS CUATRO RUEDAS\nCALIPERS EN COLOR AMARILLO\nTOMAS DE AIRE EN COLOR NEGRO BRILLANTE\nTECHO DESCAPOTABLE ELÉCTRICO",
-        "imagenes":[
-                "https://www.autostlalpan.com/wp-content/uploads/2019/07/10-9-1024x623.jpg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/07/13-10-1024x878.jpg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/07/14-9-1024x559.jpg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/07/15-9-1024x602.jpg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/07/16-9-1024x619.jpg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/07/17-6-1024x585.jpg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/07/01-10-1024x677.jpg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/07/06-10-1024x365.jpg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/07/20-4-1024x768.jpg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/07/21-2-1024x768.jpg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/07/23-1-1024x768.jpg"
-        ]
-    },
-    {
-        "id":16,
-        "titulo":"JAGUAR F-PACE PRESTIGE 2017",
-        "marca":"JAGUAR",
-        "tipo":"F-PACE PRESTIGE",
-        "modelo":2017,
-        "precio":"688,000",
-        "colorExterior":"Blanco",
-        "colorInterior":"Café Piel",
-        "kilomeraje":18500,
-        "motor":{
-            "transmision":"Automatica",
-            "drivetrain":"4WD",
-            "description":"3.0LTS SUPERCARGADO, 6 CILINDROS 340HP",
-            "hp":"340HP",
-            "cilindros":6,
-            "inyeccion":"3.0L"
-        },
-        "equipoInterior":"TRANSMISION AUTOMATICA DE DOBLE EMBRAGUE CON LAUNCH CONTROL\nADAPTIVE DYNAMICS DIFERENTES MODOS DE MANEO: ECO, COMFORT, LLUVIA / HIELO Y DINAMICO\nINTERIORES EN PIEL Y ALUMINIO\nVESTIDURAS DE PIEL COLOR CREMA\nASIENTOS ELECTRICOS REGULABLES DE ALTURA Y PROFUNDIDAD\nVOLANTE MULTIFUNCIONAL REVESTIDO EN PIEL\nCLIMATIZADOR BI-ZONA\nSISTEMA DE NAVEHACION, “GPS”\nBOLSAS DE AIRE LATERALES Y FRONTALES PARA CONDUCTOR Y ACOMPAÑANTE\nPANTALLA CENTRAL TACTIL DE 8 PULGADAS\nSISTEMA DE SONIDO AGUAR CON RADIO AM/FM Y CONEXIONES PARA USB, BLUETOOTH Y USB\nSENSOR DE LUZ, “AUTOLAMP”\nAPERTURA DE CAUELA ELECTRICA\nFRENO DE EMERGENCIA AUTONOMO\nSENSOR DE ADVERTENCIA DE CAMBIO DE CARRIL, “LDW”\nCONTROL DE VELOCIDAD ADAPTABLE CON AYUDA",
-        "equipoExterior":"FAROS DE GAS XENON BIFUNCIONALES CON LUCES DE CONDUCCION DIURNA LED ” BLADE”\nHIDROLAVADO DE FAROS\nFAROS DE NIEBLA\nPARRILLA Y TOMA DE AIRE EN COLOR CROMO\nESPEOS LATERALES RETRACTILES ELECTRICAMENTE\nLUCES DIRECCIONALES EN ESPEOS RETROVISORES\nRINES DE ALUMINIO\nANTENA DE TIPO TIBURON\nTECHO DE CRISTAL\nLIMPIAPARABRISAS TRASERO\nSISTEMA DE DOBLE ESCAPE EN COLOR CROMO",
-        "imagenes":[
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/01-8-1024x709.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/02-8-1024x849.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/05-8-1024x694.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/06-8-1024x674.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/07-8-1024x870.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/08-8-1024x650.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/09-6-1024x427.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/11.1-1024x644.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/11-7-1024x975.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/15-7-1024x768.jpg"
-        ]
-    },
-        {
         "id":17,
         "titulo":"MERCEDES BENZ SLC200 NAVI 2017",
         "marca":"MERCEDES BENZ",
@@ -1012,3 +1016,4 @@
            ]
        }
 ]
+
