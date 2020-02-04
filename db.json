@@ -1,4 +1,103 @@
-[
+ [
+     {
+         "id":41,
+         "titulo":"CHEVROLET SONIC LTZ 2017",
+         "marca":"CHEVROLET",
+         "tipo":"SONIC",
+         "modelo":2017,
+         "precio":"178,000",
+         "colorExterior":"Naranja",
+         "colorInterior":"Negro",
+         "kilomeraje":47000,
+         "motor":{
+             "transmision":"Automatica",
+             "drivetrain":"FWD",
+             "description":"1.6L, 4 CILINDROS 115HP",
+             "hp":"115HP",
+             "cilindros":4,
+             "inyeccion":"1.6L"
+         },
+         "equipoInterior":"",
+         "equipoExterior":"",
+         "imagenes":[
+             "https://www.autostlalpan.com/wp-content/uploads/2020/01/51724F9B-5214-4A31-AAFB-E1ED96E0C9AF-1024x713.jpeg",
+             "https://www.autostlalpan.com/wp-content/uploads/2020/01/35598AF0-FECC-4049-AFE9-03F50DA08E75-1024x770.jpeg",
+             "https://www.autostlalpan.com/wp-content/uploads/2020/01/2DE4EB02-6EA2-4673-BF93-2D3D9F9405A3-1024x741.jpeg",
+             "https://www.autostlalpan.com/wp-content/uploads/2020/01/917B52EE-6774-4903-80DD-AF0CEBF2A9E4-1024x637.jpeg",
+             "https://www.autostlalpan.com/wp-content/uploads/2020/01/8AD75253-98FA-41DA-AD73-F2AAA0E8B8A0-1024x807.jpeg",
+             "https://www.autostlalpan.com/wp-content/uploads/2020/01/9FBF2E67-B3B1-48F2-B5F0-59DC84E1AE95-1024x721.jpeg",
+             "https://www.autostlalpan.com/wp-content/uploads/2020/01/48DE70D0-D49A-4328-B4F2-01B0CDF6A6A9-1024x530.jpeg",
+             "https://www.autostlalpan.com/wp-content/uploads/2020/01/284DC3C9-E1A3-4DF5-BA1E-4078DAF8F9B5-1024x768.jpeg",
+             "https://www.autostlalpan.com/wp-content/uploads/2020/01/4C0A4907-E110-4A44-9CE6-A077A5470AA9-1024x768.jpeg",
+             "https://www.autostlalpan.com/wp-content/uploads/2020/01/845B9DD7-7F53-437E-B50B-4BF2D9F443A1-1024x768.jpeg",
+             "https://www.autostlalpan.com/wp-content/uploads/2020/01/0A9A7729-930A-4510-8053-2DCEF6B4FCBE-1024x768.jpeg"
+         ]
+     },
+     {
+                  "id":40,
+                  "titulo":"MERCEDES BENZ C200 2018",
+                  "marca":"MERCEDES BENZ",
+                  "tipo":"C200",
+                  "modelo":2018,
+                  "precio":"418,000",
+                  "colorExterior":"Negro",
+                  "colorInterior":"Negro Piel",
+                  "kilomeraje":19000,
+                  "motor":{
+                      "transmision":"9 G-tronic",
+                      "drivetrain":"RWD",
+                      "description":"2.0L TURBO 184HP",
+                      "hp":"184",
+                      "cilindros":4,
+                      "inyeccion":"2.0L"
+                  },
+                  "equipoInterior":"",
+                  "equipoExterior":"",
+                  "imagenes":[
+                      "https://www.autostlalpan.com/wp-content/uploads/2020/01/8FD965CC-60E0-41CA-9D12-FE63A06FE98A-1024x665.jpeg",
+                      "https://www.autostlalpan.com/wp-content/uploads/2020/01/907C1BF9-FC71-4CBC-8BBE-FF2CF9E65655-1024x717.jpeg",
+                      "https://www.autostlalpan.com/wp-content/uploads/2020/01/47CF9E03-86A2-41DA-A1E5-D6ABBC45F6C5-1024x626.jpeg",
+                      "https://www.autostlalpan.com/wp-content/uploads/2020/01/F85B7881-F708-4027-9118-CE5995E47FFE-1024x607.jpeg",
+                      "https://www.autostlalpan.com/wp-content/uploads/2020/01/41AA4D7A-5235-49F5-BF44-AB57EA4206CB-1024x879.jpeg",
+                      "https://www.autostlalpan.com/wp-content/uploads/2020/01/58828CFB-D022-43D7-A965-1492D3E94378-1024x617.jpeg",
+                      "https://www.autostlalpan.com/wp-content/uploads/2020/01/38686A95-C7FA-446E-8E5A-E0CB9B623A42-1024x768.jpeg",
+                      "https://www.autostlalpan.com/wp-content/uploads/2020/01/2D8A7CD2-BEF7-44BC-A244-9D93AAEB008C-1024x702.jpeg",
+                      "https://www.autostlalpan.com/wp-content/uploads/2020/01/7FCE6441-F579-4304-9791-DECB51561B2B-1024x768.jpeg",
+                      "https://www.autostlalpan.com/wp-content/uploads/2020/01/8581D332-19FC-47F6-A0A4-8936B3182792-1024x768.jpeg"
+                  ]
+              },
+     {
+            "id":37,
+            "titulo":"VOLKSWAGEN JETTA MKVI 2015",
+            "marca":"VOLKSWAGEN",
+            "tipo":"JETTA",
+            "modelo":2015,
+            "precio":"168,000",
+            "colorExterior":"Arena",
+            "colorInterior":"Negro",
+            "kilomeraje":54000,
+            "motor":{
+                "transmision":"Automatica DSG",
+                "drivetrain":"FWD",
+                "description":"2.5L 170HP",
+                "hp":"170",
+                "cilindros":4,
+                "inyeccion":"2.5L"
+            },
+            "equipoInterior":"",
+            "equipoExterior":"",
+            "imagenes":[
+                "https://www.autostlalpan.com/wp-content/uploads/2020/01/E048D9FC-FCC7-42DF-90B8-75CCE5D6A37A-1024x711.jpeg",
+                "https://www.autostlalpan.com/wp-content/uploads/2020/01/DA9E04B5-A6DF-44E9-8827-35E7AC072859-1024x767.jpeg",
+                "https://www.autostlalpan.com/wp-content/uploads/2020/01/4691628E-2414-429F-8EA3-15F75FA4ED57-1024x584.jpeg",
+                "https://www.autostlalpan.com/wp-content/uploads/2020/01/27F8674F-B1FF-4B99-A042-A5E70B735A3C-1024x535.jpeg",
+                "https://www.autostlalpan.com/wp-content/uploads/2020/01/BADED168-72EE-418F-B1B5-CCC006C1E987-1024x780.jpeg",
+                "https://www.autostlalpan.com/wp-content/uploads/2020/01/134FF032-3379-41A6-BBDD-AA0C060FE8CB-1024x507.jpeg",
+                "https://www.autostlalpan.com/wp-content/uploads/2020/01/96078C04-97E6-40A0-BEDC-69EEE48D611C-1024x768.jpeg",
+                "https://www.autostlalpan.com/wp-content/uploads/2020/01/3847833C-764E-424C-B06D-EDBA87C38CFE-1024x768.jpeg",
+                "https://www.autostlalpan.com/wp-content/uploads/2020/01/EA12DB60-360D-4E27-BAC2-889D205D350F-1024x768.jpeg"
+            ]
+        },
     {
     "id":39,
     "titulo":"PORSCHE CAYENNE S 3.6 LTS 300HP 2015",
@@ -134,38 +233,6 @@
         ]
     },
     {
-           "id":36,
-           "titulo":"BMW X6 XDRIVE 2013",
-           "marca":"BMW",
-           "tipo":"X6 TWIN TURBO",
-           "modelo":2019,
-           "precio":"388,000",
-           "colorExterior":"Blanco y Negro",
-           "colorInterior":"Rojo",
-           "kilomeraje":66700,
-           "motor":{
-               "transmision":"Automatica",
-               "drivetrain":"4WD",
-               "description":"3.0L 6 306HP TWIN TURBO",
-               "hp":"306",
-               "cilindros":6,
-               "inyeccion":"3.0L"
-           },
-           "equipoInterior":"",
-           "equipoExterior":"",
-           "imagenes":[
-             "https://www.autostlalpan.com/wp-content/uploads/2020/01/0c6790eb-0df4-4f45-bb87-f1c6e6dedffa-1-1024x585.jpg",
-             "https://www.autostlalpan.com/wp-content/uploads/2020/01/3c7c29b5-db3b-4203-b91f-d3e50d0b178c-1024x773.jpg",
-             "https://www.autostlalpan.com/wp-content/uploads/2020/01/f14268c5-34d5-4b68-be31-fc6dfa336b2d-1024x713.jpg",
-             "https://www.autostlalpan.com/wp-content/uploads/2020/01/9bcb9a89-b85d-4ff2-a22c-15ba06a7f440-1024x626.jpg",
-             "https://www.autostlalpan.com/wp-content/uploads/2020/01/bb0a8b7e-d9ef-4615-bb16-9f4f0f3acb8a-1024x802.jpg",
-             "https://www.autostlalpan.com/wp-content/uploads/2020/01/c99d641e-f1c5-419f-9072-b1fb8773721a-1024x642.jpg",
-             "https://www.autostlalpan.com/wp-content/uploads/2020/01/b5cd6ad7-6747-4708-9c0b-e470a6b3366a-1024x768.jpg",
-             "https://www.autostlalpan.com/wp-content/uploads/2020/01/3a583058-f87a-422e-8153-689d29c18578-1024x768.jpg",
-             "https://www.autostlalpan.com/wp-content/uploads/2020/01/32e65230-394c-471a-9043-a1d2afe12ef8-1024x768.jpg"
-           ]
-       },
-    {
     "id":35,
     "titulo":"PORSCHE 911 CARRERA 4S 2014",
     "marca":"PORSCHE",
@@ -234,72 +301,6 @@
         ]
     },
     {
-            "id":34,
-            "titulo":"ACURA TLX ADVANCE 2015",
-            "marca":"ACURA",
-            "tipo":"TLX",
-            "modelo":2017,
-            "precio":"278,000",
-            "colorExterior":"Blanco",
-            "colorInterior":"Champagne",
-            "kilomeraje":32000,
-            "motor":{
-                "transmision":"Automatica",
-                "drivetrain":"FWD",
-                "description":"3.5L 6 Cil 290HP",
-                "hp":"290",
-                "cilindros":6,
-                "inyeccion":"3.5L"
-            },
-            "equipoInterior":"",
-            "equipoExterior":"",
-            "imagenes":[
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/C04CFBBF-FD30-43A4-8762-45888E288E1A-1024x539.jpeg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/22E9EC01-2D3B-40F2-A34F-ABF2C4286A03-1024x773.jpeg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/05C25A1A-1F88-4788-A1C9-966C67D1D7C5-1024x602.jpeg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/9AE70073-B7BF-4C69-8439-271FBAE27D6C-1024x412.jpeg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/1A777DE4-B6A9-4161-A152-5AF3F03F4403-1024x551.jpeg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/E03DDE1E-EB82-4403-96C6-113B6440982D-1024x750.jpeg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/01F17192-0E40-49C3-9C03-93601435BAB1-1024x502.jpeg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/9779A307-3B9D-4F44-A2C4-40B422C7DC7D-1024x768.jpeg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/55348FC1-CF5B-4B46-BE87-730B63C286F0-1024x768.jpeg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/B4AFDE91-1AA6-4E29-9319-00A04B1CE330-1024x768.jpeg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/27A77224-B4ED-4629-9065-890F5B8DDA17-1024x768.jpeg"
-            ]
-        },
-    {
-          "id":33,
-          "titulo":"PORSCHE CARRERA S TURBO 2017",
-          "marca":"PORSCHE",
-          "tipo":"911 CARRERA S",
-          "modelo":2017,
-          "precio":"1,688,000",
-          "colorExterior":"NarANJA",
-          "colorInterior":"Negro",
-          "kilomeraje":3200,
-          "motor":{
-              "transmision":"PDK 7-Vel",
-              "drivetrain":"RWD",
-              "description":"TURBO 3L 6 Cil 420HP",
-              "hp":"420",
-              "cilindros":6,
-              "inyeccion":"3.0L"
-          },
-          "equipoInterior":"",
-          "equipoExterior":"",
-          "imagenes":[
-              "https://www.autostlalpan.com/wp-content/uploads/2019/12/CC824D0F-7966-4828-8103-4074B21A697F.jpeg",
-              "https://www.autostlalpan.com/wp-content/uploads/2019/12/625320D4-C585-4AD3-A165-C194D3D259AC.jpeg",
-              "https://www.autostlalpan.com/wp-content/uploads/2019/12/14AC54A7-D417-49D1-8520-EB80BCB5C6D8.jpeg",
-              "https://www.autostlalpan.com/wp-content/uploads/2019/12/F8878A4F-240C-42AC-8ED6-10310E23B4C0.jpeg",
-              "https://www.autostlalpan.com/wp-content/uploads/2019/12/2B9C9D6F-94D3-4325-A417-CA944F4AB230.jpeg",
-              "https://www.autostlalpan.com/wp-content/uploads/2019/12/CDB981CC-9267-49DD-9076-FEAD16100269.jpeg",
-              "https://www.autostlalpan.com/wp-content/uploads/2019/12/45FC2B94-1A4B-4738-BEC7-2DE42787132D.jpeg",
-              "https://www.autostlalpan.com/wp-content/uploads/2019/12/D4AF1002-3448-4A12-94BF-0653C19C841F.jpeg",
-              "https://www.autostlalpan.com/wp-content/uploads/2019/12/D489AF52-0A92-4B1B-ADAD-224899C510E7.jpeg"
-          ]
-      },
-    {
            "id":32,
            "titulo":"JAGUAR F-PACE FIRST EDITION 2017",
            "marca":"JAGUAR",
@@ -335,41 +336,6 @@
                 "https://www.autostlalpan.com/wp-content/uploads/2019/12/946DB0E7-BE9F-43A2-BE86-CDE10BAD6358-1024x768.jpeg"
            ]
        },
-    {
-        "id":31,
-        "titulo":"CHEVROLET SUBURBAN LTZ 2016",
-        "marca":"CHEVROLET",
-        "tipo":"SUBURBAN",
-        "modelo":2016,
-        "precio":"648,000",
-        "colorExterior":"Blanco",
-        "colorInterior":"Cafe Piel",
-        "kilomeraje":30000,
-        "motor":{
-            "transmision":"Automatica",
-            "drivetrain":"4x4",
-            "description":"8 CIL 5.3L CON 355HP",
-            "hp":"355HP",
-            "cilindros":8,
-            "inyeccion":"5.3L"
-        },
-        "equipoInterior":"",
-        "equipoExterior":"",
-        "imagenes":[
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/1E031870-BC67-4A8B-9AC2-F473D99A9D66-1024x607.jpeg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/C74EC56A-C274-4D5D-A8E2-A3C35D568AB5-1024x776.jpeg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/699D747D-0A27-4CB3-A00C-CF149B3C0055-1024x665.jpeg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/FAC1FBBE-12F8-43A8-B5FE-D33A44CF927A-1024x684.jpeg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/C096D5D4-04D4-4257-8CF2-351854B0D432-1024x904.jpeg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/85315794-F542-4784-A47F-892BEC4878C5-1024x734.jpeg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/CE5F0FBD-BE5C-49A0-A260-21E7E10B7093-1024x628.jpeg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/937B6753-E8DB-4552-9D90-094857E6B94E-1024x736.jpeg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/9284EA1C-3FA9-4885-8D1F-FE7A3D19A519-1024x768.jpeg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/9531631E-42A1-42F8-8D76-74F8870401B5-1024x768.jpeg",
-                "https://www.autostlalpan.com/wp-content/uploads/2019/12/4DDD5830-2106-4A8D-8844-FE2FFF0B69E8-1024x768.jpeg",
-                "http://www.autostlalpan.com/wp-content/uploads/2019/12/71CE1E09-0FC9-4CF3-8676-1314056B7814-1024x768.jpeg"
-        ]
-    },
     {
               "id":30,
               "titulo":"MERCEDES BENZ C200 COUPE 2018",
@@ -607,41 +573,6 @@
           "https://www.autostlalpan.com/wp-content/uploads/2019/10/14-4-1024x768.jpg",
           "https://www.autostlalpan.com/wp-content/uploads/2019/10/15-2-1024x768.jpg",
           "https://www.autostlalpan.com/wp-content/uploads/2019/10/18-1024x768.jpg"
-        ]
-    },
-    {
-        "id":13,
-        "titulo":"BMW 430iA 2.0T COUPE SPORT",
-        "marca":"BMW",
-        "tipo":"430iA",
-        "modelo":2017,
-        "precio":"448,000",
-        "colorExterior":"Gris",
-        "colorInterior":"Rojo Piel",
-        "kilomeraje":40000,
-        "motor":{
-            "transmision":"Automatica",
-            "drivetrain":"FWD",
-            "description":"2.0 TURBO, 4 CILINDROS 252HP",
-            "hp":"252HP",
-            "cilindros":4,
-            "inyeccion":"2L"
-        },
-        "equipoInterior":"A/C,\n ASIENTOS ELECTRICOS,\nVESTIDURAS DE ROJO PIEL,\nCONTROL DE VELOCIDAD,\nVOLANTE AJUSTABLE,",
-        "equipoExterior":"FRENOS ABS,\nALARMA,\nQUEMACOCOS",
-        "imagenes":[
-            "https://www.autostlalpan.com/wp-content/uploads/2019/10/01-1024x696.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/10/02-1024x700.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/10/05-1024x638.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/10/08-1024x578.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/10/07-1024x795.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/10/06-1024x595.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/10/10-1024x768.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/10/16-1024x768.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/10/11-1024x738.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/10/13-1003x1024.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/10/17-1024x768.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/10/14-1024x768.jpg"
         ]
     },
     {
