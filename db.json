@@ -1,5 +1,38 @@
- [
-     
+[
+     {
+         "id":11,
+         "titulo":"BMW X1 20iA MSPORT SDRIVE 2018",
+         "marca":"BMW",
+         "tipo":"X1",
+         "modelo":2018,
+         "precio":"418,000",
+         "colorExterior":"PLATA",
+         "colorInterior":"Negro Piel",
+         "kilomeraje":34000,
+         "motor":{
+             "transmision":"Automatica",
+             "drivetrain":"AWD",
+             "description":"2.0L TURBO 4Cil 194HP",
+             "hp":"192",
+             "cilindros":4,
+             "inyeccion":"2.0L"
+         },
+         "equipoInterior":"TRANSMISION AUTOMATICA DE 7 VELOCIDADES, /n TRES MODOS DE MANEJO: COMFORT, SPORT Y SPORT +, /n VOLANTE MULTIFUNCIONAL REVESTIDO EN PIEL, /n PANTALLA CENTRAL A COLOR, /n CLIMATIZADOR DE AIRE ACONDICIONADO, /n VESTIDURAS DE PIEL EN COLOR NEGRO",
+         "equipoExterior":"FAROS DE GAS XENON, /n FAROS DE NIEBLA DELANTEROS Y TRASEROS, /n SENSORES DELANTEROS Y TRASEROS DE PROXIMIDAD, /n MOLDURAS EN COLOR NEGRO BRILLANTE, /n DOBLE ESCAPE EN COLOR CROMO, /n RINES DE ALUMINIO DE 19 PULGADAS",
+         "imagenes":[
+             "https://www.autostlalpan.com/wp-content/uploads/2020/02/5077912F-00E7-4DCC-BC16-0C772D2E9DAB-1024x742.jpeg",
+             "https://www.autostlalpan.com/wp-content/uploads/2020/02/E5A63430-1A14-438E-9B2F-4FCB9B69A5ED-1024x960.jpeg",
+             "https://www.autostlalpan.com/wp-content/uploads/2020/02/DDCC6930-5778-4715-B448-510505532884-1024x802.jpeg",
+             "https://www.autostlalpan.com/wp-content/uploads/2020/02/392DB1B6-A61E-41DF-A89B-E1998B8D0E42-1024x461.jpeg",
+             "https://www.autostlalpan.com/wp-content/uploads/2020/02/D07F83D5-7610-4149-A127-C3C6244D167E-1024x643.jpeg",
+             "https://www.autostlalpan.com/wp-content/uploads/2020/02/BE321896-5594-4E0D-AFF5-70FAC254F9D6-1024x900.jpeg",
+             "https://www.autostlalpan.com/wp-content/uploads/2020/02/EFA8911F-E9FA-4570-A0AA-FFFB0E4DC37E-1024x677.jpeg",
+             "https://www.autostlalpan.com/wp-content/uploads/2020/02/025363B1-59F6-4FCE-BEBF-28F8FEC483DB-1024x545.jpeg",
+             "https://www.autostlalpan.com/wp-content/uploads/2020/02/90350A46-A02B-40B5-86B0-4C982EBC52D9-670x1024.jpeg",
+"https://www.autostlalpan.com/wp-content/uploads/2020/02/BF6AC527-4101-4F2E-B5E5-925CD5DF6D9A-1024x768.jpeg",
+             "http://www.autostlalpan.com/wp-content/uploads/2020/02/342FD162-0D50-4844-9460-B84CD536C187-1024x930.jpeg"
+         ]
+     },
      {
          "id":46,
          "titulo":"VOLVO XC60 R-DESIGN T6 2018",
