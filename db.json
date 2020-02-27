@@ -1,5 +1,40 @@
 [
     {
+        "id":46,
+        "titulo":"JEEEP WRANGLER RUBICON 4X4 2018",
+        "marca":"JEEP",
+        "tipo":"WRANGLER",
+        "modelo":2018,
+        "precio":"658,000",
+        "colorExterior":"Blanca",
+        "colorInterior":"Negro",
+        "kilomeraje":36000,
+        "motor":{
+            "transmision":"Automatica",
+            "drivetrain":"RWD",
+            "description":"3.5L 6 Cil 4X4  285HP",
+            "hp":"285",
+            "cilindros":6,
+            "inyeccion":"3.5L"
+        },
+        "equipoInterior":"",
+        "equipoExterior":"",
+        "imagenes":[
+            "https://www.autostlalpan.com/wp-content/uploads/2020/02/03-2-1024x634.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2020/02/02-2-1024x990.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2020/02/05-2-1024x698.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2020/02/06-2-1024x722.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2020/02/07-2-1024x915.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2020/02/08-2-1024x629.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2020/02/09-1-1024x567.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2020/02/10-1-1024x768.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2020/02/12-1-1024x768.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2020/02/13-1-1024x768.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2020/02/14-1-1024x768.jpg",
+            "https://www.autostlalpan.com/wp-content/uploads/2020/02/15-1-1024x768.jpg"
+        ]
+    },
+    {
         "id":45,
         "titulo":"BMW 120iA SPORT LINE 2018",
         "marca":"BMW",
@@ -160,40 +195,6 @@
              "https://www.autostlalpan.com/wp-content/uploads/2020/02/62CC3539-BE7F-4475-AB36-8B91C5A13E5F-1024x969.jpeg",
              "https://www.autostlalpan.com/wp-content/uploads/2020/02/FD71512A-912D-4201-AC6A-57C27D538C71-1024x768.jpeg",
              "https://www.autostlalpan.com/wp-content/uploads/2020/02/6B307914-C467-41DB-A2B1-04640D95FB12-1024x768.jpeg"
-         ]
-     },
-     {
-     "id":39,
-     "titulo":"CADILLAC XT5 PREMIUM 3.6L 2017",
-     "marca":"CADILLAC",
-     "tipo":"XT5",
-     "modelo":2017,
-     "precio":"478,000",
-     "colorExterior":"Blanco",
-     "colorInterior":"Negro",
-     "kilomeraje":22000,
-     "motor":{
-         "transmision":"Automatica",
-         "drivetrain":"AWD",
-         "description":"3.6L 6 Cil 310HP",
-         "hp":"310HP",
-         "cilindros":6,
-         "inyeccion":"3.6L"
-     },
-     "equipoInterior":"",
-     "equipoExterior":"",
-     "imagenes":[
-         "https://www.autostlalpan.com/wp-content/uploads/2020/02/55B9F728-13E0-4C3B-83C1-A0DA3A3CD415-1024x763.jpeg",
-         "https://www.autostlalpan.com/wp-content/uploads/2020/02/1BFF6D48-1770-44D0-A0B8-3C68681C5530-1024x805.jpeg",
-         "https://www.autostlalpan.com/wp-content/uploads/2020/02/92A38128-0048-43AE-8AF0-8BB14BF6615F-1024x586.jpeg",
-         "https://www.autostlalpan.com/wp-content/uploads/2020/02/38573363-5341-42F1-BA9F-5F72A6140E5D-1024x558.jpeg",
-         "https://www.autostlalpan.com/wp-content/uploads/2020/02/8F016D86-FFB0-4ADF-9D11-601498E81B0C-1024x864.jpeg",
-         "https://www.autostlalpan.com/wp-content/uploads/2020/02/6F5F65AC-A27C-4D52-9DA6-A1101F149BB4-1024x619.jpeg",
-         "https://www.autostlalpan.com/wp-content/uploads/2020/02/D8354C6B-B6C2-4663-B490-FB8935A59ABE-1024x618.jpeg",
-         "https://www.autostlalpan.com/wp-content/uploads/2020/02/3F57EEFF-9B29-43A7-8842-7C981E007B17-1024x999.jpeg",
-         "https://www.autostlalpan.com/wp-content/uploads/2020/02/A50B2178-BB0B-4146-A785-E23FF2A468C3-1024x764.jpeg",
-         "https://www.autostlalpan.com/wp-content/uploads/2020/02/1CB575F2-E376-45CC-99D4-08EEEE863915-1024x768.jpeg",
-         "https://www.autostlalpan.com/wp-content/uploads/2020/02/4736AFDF-E99C-46B4-B34B-017E02C06E41-1024x768.jpeg"
          ]
      },
      {
@@ -602,40 +603,6 @@
                    "https://www.autostlalpan.com/wp-content/uploads/2019/11/15-4-1024x768.jpg"
                ]
            },
-    {
-           "id":21,
-           "titulo":"GMC YUKON DENALI 2019",
-           "marca":"GMC",
-           "tipo":"YUKON",
-           "modelo":2019,
-           "precio":"968,000",
-           "colorExterior":"Azul",
-           "colorInterior":"Leather Beige",
-           "kilomeraje":13000,
-           "motor":{
-               "transmision":"Automatico",
-               "drivetrain":"AWD",
-               "description":"6.2L 8 Cil 420HP",
-               "hp":"420",
-               "cilindros":8,
-               "inyeccion":"6.2L"
-           },
-           "equipoInterior":"",
-           "equipoExterior":"",
-           "imagenes":[
-               "https://www.autostlalpan.com/wp-content/uploads/2019/11/01-3-1024x804.jpg",
-               "https://www.autostlalpan.com/wp-content/uploads/2019/11/02-2-1024x774.jpg",
-               "https://www.autostlalpan.com/wp-content/uploads/2019/11/04.2-1024x670.jpg",
-               "https://www.autostlalpan.com/wp-content/uploads/2019/11/04-2-1024x685.jpg",
-               "https://www.autostlalpan.com/wp-content/uploads/2019/11/05-2-1024x918.jpg",
-               "https://www.autostlalpan.com/wp-content/uploads/2019/11/06-2-1024x695.jpg",
-               "https://www.autostlalpan.com/wp-content/uploads/2019/11/10-2-1024x606.jpg",
-               "https://www.autostlalpan.com/wp-content/uploads/2019/11/11-2-1024x886.jpg",
-               "https://www.autostlalpan.com/wp-content/uploads/2019/11/14.1-1-1024x768.jpg",
-               "https://www.autostlalpan.com/wp-content/uploads/2019/11/14.2-1024x768.jpg",
-               "https://www.autostlalpan.com/wp-content/uploads/2019/11/14-2-1024x768.jpg"
-           ]
-       },
     {
            "id":20,
            "titulo": "MAZDA 6 GT PLUS 2019",
