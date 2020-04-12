@@ -284,7 +284,7 @@
         "id":47,
         "titulo":"MERCEDES BENZ SLK200 CGI TURBO 2014",
         "marca":"MERCEDES BENZ",
-        "tipo":"SLK200",
+        "tipo":"SLK",
         "modelo":2014,
         "precio":"438,000",
         "colorExterior":"Gris",
@@ -509,7 +509,7 @@
         "equipoInterior":"",
         "equipoExterior":"",
         "imagenes":[
-            "http://www.autostlalpan.com/wp-content/uploads/2020/03/07176FAB-4496-4966-9722-F6976FED3B69-1024x634.jpeg",
+            "https://www.autostlalpan.com/wp-content/uploads/2020/03/07176FAB-4496-4966-9722-F6976FED3B69-1024x634.jpeg",
             "https://www.autostlalpan.com/wp-content/uploads/2020/03/28BAF7DC-1E2A-4DB7-B4CB-BDF075753DEF-1024x719.jpeg",
             "https://www.autostlalpan.com/wp-content/uploads/2020/03/C4CCE0DF-A4B1-4C42-8D09-98EEF3EAB405-1024x588.jpeg",
             "https://www.autostlalpan.com/wp-content/uploads/2020/03/FEF25FA7-E638-4993-85D9-E9724C6F271C-1024x476.jpeg",
@@ -518,7 +518,7 @@
             "https://www.autostlalpan.com/wp-content/uploads/2020/03/7B004214-41A5-44E7-9950-344FD341B846-1024x523.jpeg",
             "https://www.autostlalpan.com/wp-content/uploads/2020/03/CF1EB68E-BCB3-4BEB-B69A-30FC77B69A60-1024x960.jpeg",
             "https://www.autostlalpan.com/wp-content/uploads/2020/03/37ADD125-A99F-4F80-8AF2-A4C6D5A5D173-1024x768.jpeg",
-            "http://www.autostlalpan.com/wp-content/uploads/2020/03/DFE4166C-FC2F-479D-BA7B-B54E902532AC-1024x768.jpeg"
+            "https://www.autostlalpan.com/wp-content/uploads/2020/03/DFE4166C-FC2F-479D-BA7B-B54E902532AC-1024x768.jpeg"
         ]
     },
     {
@@ -589,42 +589,7 @@
             "https://www.autostlalpan.com/wp-content/uploads/2020/03/C50E62F7-85D6-49D0-81E9-6B5B3CD7222B-1024x768.jpeg"
         ]
     },
-    {
-           "id":5,
-           "titulo":"PORSCHE 911 CAYMAN 300HP 2019",
-           "marca":"PORSCHE",
-           "tipo":"CAYMAN",
-           "modelo":2019,
-           "precio":"1,248,000",
-           "colorExterior":"Rojo",
-           "colorInterior":"Negro Piel",
-           "kilomeraje":13000,
-           "motor":{
-               "transmision":"Automatica PDK",
-               "drivetrain":"RWD",
-               "description":"3 TURBO, 4 CILINDROS",
-               "hp":"300HP",
-               "cilindros":6,
-               "inyeccion":"2L"
-           },
-           "equipoInterior":"",
-           "equipoExterior":"",
-           "imagenes":[
-               "https://www.autostlalpan.com/wp-content/uploads/2020/03/01-3-1024x667.jpg",
-               "https://www.autostlalpan.com/wp-content/uploads/2020/03/02-3-1024x553.jpg",
-               "https://www.autostlalpan.com/wp-content/uploads/2020/03/03-3-1024x668.jpg",
-               "https://www.autostlalpan.com/wp-content/uploads/2020/03/05-3-1024x578.jpg",
-               "https://www.autostlalpan.com/wp-content/uploads/2020/03/07-3-1024x590.jpg",
-               "https://www.autostlalpan.com/wp-content/uploads/2020/03/08-3-1024x680.jpg",
-               "https://www.autostlalpan.com/wp-content/uploads/2020/03/11-2-1024x546.jpg",
-               "https://www.autostlalpan.com/wp-content/uploads/2020/03/12-3-1024x606.jpg",
-               "https://www.autostlalpan.com/wp-content/uploads/2020/03/16-2-1024x768.jpg",
-               "https://www.autostlalpan.com/wp-content/uploads/2020/03/17-1-1024x768.jpg",
-               "https://www.autostlalpan.com/wp-content/uploads/2020/03/19-1024x768.jpg",
-               "https://www.autostlalpan.com/wp-content/uploads/2020/03/14-3-1024x749.jpg"
-           ]
-       },
-    {
+       {
         "id":5,
         "titulo":"PORSCHE 911 CARRERA 3.0 2017",
         "marca":"PORSCHE",
@@ -1023,41 +988,6 @@
             "https://www.autostlalpan.com/wp-content/uploads/2019/09/09-5-1018x1024.jpg",
             "https://www.autostlalpan.com/wp-content/uploads/2019/09/14-4-1024x768.jpg",
             "https://www.autostlalpan.com/wp-content/uploads/2019/09/15-4-1024x768.jpg"
-        ]
-    },
-    {
-        "id":5,
-        "titulo":"PORSCHE BOXSTER 2.7L 2014",
-        "marca":"PORSCHE",
-        "tipo":"BOXTER",
-        "modelo":2014,
-        "precio":"758,000",
-        "colorExterior":"Blanco",
-        "colorInterior":"Azul Piel",
-        "kilomeraje":7100,
-        "motor":{
-            "transmision":"Automatica PDK",
-            "drivetrain":"RWD",
-            "description":"2.7 TURBO, 6 CILINDROS 265HP",
-            "hp":"265HP",
-            "cilindros":6,
-            "inyeccion":"2.7L"
-        },
-        "equipoInterior":"",
-        "equipoExterior":"",
-        "imagenes":[
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/01-4-1024x657.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/02-4-1024x715.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/05-4-1024x645.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/06-4-1024x585.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/07-4-1024x843.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/08-4-1024x658.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/12-4-1024x581.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/14.1-1024x619.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/15-4-1024x576.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/16-4-1024x768.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/17-2-1024x768.jpg",
-            "https://www.autostlalpan.com/wp-content/uploads/2019/07/20-2-1024x768.jpg"
         ]
     },
     {
