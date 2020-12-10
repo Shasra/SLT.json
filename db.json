@@ -1,30 +1,5 @@
 [
 {
-"id":68,
-"titulo":"MCLAREN 570S COUPE",
-"marca":"MCLAREN",
-"tipo":"570S COUPE",
-"modelo":2019,
-"precio":"3,678,000",
-"colorExterior":"VERMILLON ROJO",
-"colorInterior":"NEGRO",
-"kilomeraje":1700,
-"motor":{
-"transmision":"Automatica doble embrague",
-"drivetrain":"RWD",
-"description":"3.8LTS DE 8 Cil",
-"hp":"562",
-"cilindros":8,
-"inyeccion":"3.8L"
-},
-"equipoInterior":"TRANSMSION: AUTOMATICA DOBLE EMBRAGUE,\n ENCENDIDO DE MOTOR CON BOTON,\n SISTEMA DE NAVEGACION SATELITAL,\n INTERIOR TELA ALCANTARA,\n COMPUTADORA DE A BORDO,\n ,\n VOLANTE AJUSTABLE,\n 7 VELOCIDADES,\n CAMARA DE REVERSA",
-"equipoExterior":"FAROS DELANTEROS BI-XENON,\n ASISTENCIA FRENADO DE EMERGENCIA,\n SPYLER TRASERO CON FIBRA DE CARBONO,\n SENSOR DE PROXIMIDAD,\n CONTROL DE ESTABILIDAD Y TRACCION,\n RINES R19D RINES R20T",
-"imagenes":[
-    "https://www.autostlalpan.com/wp-content/uploads/2020/11/4A317F60-DDA1-49F7-8FDF-A3CB9934DB82.jpeg",
-    "https://www.autostlalpan.com/wp-content/uploads/2020/11/886E9367-4EF6-4098-83D2-B7CBF067FB42.jpeg"
-]
-},
-{
 "id":67,
 "titulo":"MCLAREN 570S SPIDER 2018",
 "marca":"MCLAREN",
