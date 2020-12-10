@@ -35,7 +35,6 @@
 "https://www.autostlalpan.com/wp-content/uploads/2020/11/F3121D13-ADD4-4146-B479-10AA8559BE3C-1024x928.jpeg"
 ]
 },
-[
 {
 "id":67,
 "titulo":"MCLAREN 570S SPIDER 2018",
@@ -116,7 +115,7 @@
 "precio":"1,688,000",
 "colorExterior":"NARANJA LAVA",
 "colorInterior":"NEGRO",
-"kilomeraje":3300,
+"kilomeraje":3,300,
 "motor":{
 "transmision":"Automatica PDK",
 "drivetrain":"RWD",
@@ -388,7 +387,7 @@
 "precio":"188,000",
 "colorExterior":"BLANCO PURO",
 "colorInterior":"Negro",
-"kilomeraje":43000,
+"kilomeraje":43,000,
 "motor":{
 "transmision":"MANUAL 6 VELOCIDADES",
 "drivetrain":"FWD",
