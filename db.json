@@ -115,7 +115,7 @@
 "precio":"1,688,000",
 "colorExterior":"NARANJA LAVA",
 "colorInterior":"NEGRO",
-"kilomeraje":3,300,
+"kilomeraje":3300,
 "motor":{
 "transmision":"Automatica PDK",
 "drivetrain":"RWD",
@@ -387,7 +387,7 @@
 "precio":"188,000",
 "colorExterior":"BLANCO PURO",
 "colorInterior":"Negro",
-"kilomeraje":43,000,
+"kilomeraje":43000,
 "motor":{
 "transmision":"MANUAL 6 VELOCIDADES",
 "drivetrain":"FWD",
